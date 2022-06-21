@@ -1,6 +1,6 @@
 ##  約翰福音主日學
 
-[John 13–17 Part I • 約翰福音 13–17章（一）].(https://github.com/barrylee10/gospelofjohn/blob/main/John%2013%E2%80%9317%20Part%20I%20%E2%80%A2%20%E7%B4%84%E7%BF%B0%E7%A6%8F%E9%9F%B3%2013%E2%80%9317%E7%AB%A0%EF%BC%88%E4%B8%80%EF%BC%89.md)
+[John 13–17 Part I • 約翰福音 13–17章（一）](https://github.com/barrylee10/gospelofjohn/blob/main/John%2013%E2%80%9317%20Part%20I%20%E2%80%A2%20%E7%B4%84%E7%BF%B0%E7%A6%8F%E9%9F%B3%2013%E2%80%9317%E7%AB%A0%EF%BC%88%E4%B8%80%EF%BC%89.md)
 
 ### Markdown
 
