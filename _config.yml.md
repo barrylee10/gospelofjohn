@@ -1,5 +1,3 @@
-theme: jekyll-theme-tactile
-
 # Welcome to Beautiful Jekyll!
 # This config file is meant for settings that affect your entire website. When you first
 # set up your website you should go through all these settings and edit them, but after
