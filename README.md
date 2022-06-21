@@ -7,7 +7,7 @@ John 13 The footwashing, Betrayal 洗腳、背叛
 
 John 11–12 Jesus is the resurrection and the life; anointed for burial 復活和生命、 香膏和埋葬
 
-[Notes 筆記](https://github.com/barrylee10/gospelofjohn/blob/main/John_11-12.md)  | [Recording 錄音](https://www.dropbox.com/s/op2wid7mb1zaarc/John%2011%E2%80%9312%20audio.m4a?raw=1) (Video unavailable)
+[Notes 筆記](https://github.com/barrylee10/gospelofjohn/blob/main/John_11-12.md)  | [Recording 錄音](https://www.dropbox.com/s/op2wid7mb1zaarc/John%2011%E2%80%9312%20audio.m4a?raw=1) | (Video unavailable)
 
 John 9-10 Jesus and the blind man; the Good Shepherd 瞎子與耶穌、 好牧人
 
@@ -27,11 +27,11 @@ John 5 Sabbath healing 安息日醫治
 
 John 3–4 A Jewish man, a Samaritan woman, and a boy who is healed 猶太人、 撒瑪利亞婦人、 被醫治的男孩
 
-[Notes 筆記](https://github.com/barrylee10/gospelofjohn/blob/main/John_03-04.md) | [Recording 錄音](https://www.dropbox.com/s/moh9y1tmvkncvd5/John%2003-04.mp3?raw=1) (Video unavailable)
+[Notes 筆記](https://github.com/barrylee10/gospelofjohn/blob/main/John_03-04.md) | [Recording 錄音](https://www.dropbox.com/s/moh9y1tmvkncvd5/John%2003-04.mp3?raw=1) | (Video unavailable)
 
 John 1–2 The Prologue and the beginning of the Book of Signs 前言、 神跡初現
 
-[Notes 筆記](https://github.com/barrylee10/gospelofjohn/blob/main/John_01-02.md) | [Recording 錄音](https://www.dropbox.com/s/4n1k8oyochfj0lb/John%2001%E2%80%9302.mp3?raw=1) (Video unavailable)
+[Notes 筆記](https://github.com/barrylee10/gospelofjohn/blob/main/John_01-02.md) | [Recording 錄音](https://www.dropbox.com/s/4n1k8oyochfj0lb/John%2001%E2%80%9302.mp3?raw=1) | (Video unavailable)
 
 John — overview and authorship 約翰福音—概論和作者
 
