@@ -17,15 +17,15 @@ Barry Lee 2022
 
 #### John 7-8 Conflict with 'the Jews', the fulfilment of the Feast of Tabernacles 與猶太人的爭端、 住棚節之應驗
 
-[Notes 筆記](https://github.com/barrylee10/gospelofjohn/blob/main/John_07-08.md) (No Audio)
+[Notes 筆記](https://github.com/barrylee10/gospelofjohn/blob/main/John_07-08.md) (No recording)
 
 #### John 6 Jesus is the Bread of Life 生命的糧
 
-[Notes 筆記](https://padlet.com/gospel/john6) (No Audio)
+[Notes 筆記](https://padlet.com/gospel/john6) (No recording)
 
 #### John 5 Sabbath healing 安息日醫治
 
-[Notes 筆記](https://padlet.com/gospel/john5) (No Audio)
+[Notes 筆記](https://padlet.com/gospel/john5) (No recording)
 
 #### John 3–4 A Jewish man, a Samaritan woman, and a boy who is healed 猶太人、 撒瑪利亞婦人、 被醫治的男孩
 
