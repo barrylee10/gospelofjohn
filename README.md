@@ -35,4 +35,4 @@ John 1–2 The Prologue and the beginning of the Book of Signs 前言、 神跡�
 
 John — overview and authorship 約翰福音—概論和作者
 
-[Notes 筆記](https://github.com/barrylee10/gospelofjohn/blob/main/John_00.md) | [Recording 錄音](https://www.dropbox.com/s/c71sneyw9dbshgj/John%2000%20overview%20and%20authorship%20%E6%A6%82%E8%AB%96%E8%88%87%E4%BD%9C%E8%80%85.mp3?raw=1) (Video unavailable)
+[Notes 筆記](https://github.com/barrylee10/gospelofjohn/blob/main/John_00.md) | [Recording 錄音](https://www.dropbox.com/s/c71sneyw9dbshgj/John%2000%20overview%20and%20authorship%20%E6%A6%82%E8%AB%96%E8%88%87%E4%BD%9C%E8%80%85.mp3?raw=1) | (Video unavailable)
