@@ -3,6 +3,8 @@ Sunday School 主日學
 
 Barry Lee 2022
 
+## Contents<br/>內容
+
 #### John 13 The footwashing, Betrayal <br/>洗腳、背叛
 
 [Notes 筆記](https://github.com/barrylee10/gospelofjohn/blob/main/John_13.md) | [Video 錄影](https://www.dropbox.com/s/zmy7nptx1bfr17a/John%2013%20footwashing%2C%20betrayal.mp4?raw=1) | [Audio 錄音](https://www.dropbox.com/s/j4rh8fpjhx3leam/John%2013%20footwashing%2C%20betrayal%20%28audio%20only%29.m4a?raw=1)
@@ -38,3 +40,22 @@ Barry Lee 2022
 #### John — overview and authorship <br/>約翰福音—概論和作者
 
 [Notes 筆記](https://github.com/barrylee10/gospelofjohn/blob/main/John_00.md) | [Audio 錄音](https://www.dropbox.com/s/c71sneyw9dbshgj/John%2000%20overview%20and%20authorship%20%E6%A6%82%E8%AB%96%E8%88%87%E4%BD%9C%E8%80%85.mp3?raw=1) | (Video unavailable)
+
+
+## Course Outline <br/> 課程大綱
+| Date     | Week | Contents                                                                                                    |
+| -------- | ---- | ----------------------------------------------------------------------------------------------------------- |
+| 1/05/22  | 1    | Overview and authorship 概論、作者                                                                          |
+| 8/05/22  | 2    | John 1–2 The Prologue and the beginning of the Book of Signs 前言、 神跡初現                                |
+| 15/05/22 | 3    | John 3–4 A Jewish man, a Samaritan woman, and a boy who is healed 猶太人、 撒瑪利亞婦人、 被醫治的男孩      |
+| 22/05/22 | 4    | John 5–6 Sabbath healing; Jesus is the Bread of Life 安息日醫治、 生命的糧                                  |
+| 29/05/22 | 5    | John 7-8 Conflict with 'the Jews', the fulfilment of the Feast of Tabernacles 與猶太人的爭端、 住棚節之應驗 |
+| 5/06/22  | 6    | John 9-10 Jesus and the blind man; the Good Shepherd 瞎子與耶穌、 好牧人                                    |
+| 12/06/22 | 7    | John 11–12 Jesus is the resurrection and the life; anointed for burial 復活和生命、 香膏和埋葬              |
+| 19/06/22 | 8    | John 13 The footwashing; Betrayal 洗腳、背叛                                          |
+| 26/06/22 | 9    | John 14–16 The Vine; the Holy Spirit 葡萄樹、聖靈                                                                            |
+| 3/07/22  | 10   | John 17 Jesus' Prayer for Disciples 為門徒祈禱                                                              |
+| 10/07/22 | 11   | John 18–19 The Glory of the Cross 十字架的榮耀                                                              |
+| 17/07/22 | 12   | John 20-21 Resurrection and encounters 復活與重遇                                                           |
+| 24/07/22 | 13   | Character Study 人物研究; Q&A 問答                                                                                    |
+| 31/07/22 | —    | NO CLASS                                                                                                    |
