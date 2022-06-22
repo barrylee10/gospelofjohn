@@ -27,6 +27,13 @@ Barry Lee 2022
 
 
 ## Course Outline <br/> 課程大綱
+
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 | Date<br/>日期 | Week<br/>節數 | Contents<br/>內容                                                                                                                                                        | Audio<br/>錄音                                                                                                                                            | Video<br/>錄影                                                                                          |
 | ------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
 | 1/05/22       | 1             | [Overview and authorship<br/>概論、作者](https://github.com/barrylee10/gospelofjohn/blob/main/John_00.md)                                                                | [Audio 錄音](https://www.dropbox.com/s/c71sneyw9dbshgj/John%2000%20overview%20and%20authorship%20%E6%A6%82%E8%AB%96%E8%88%87%E4%BD%9C%E8%80%85.mp3?raw=1) | Unavailable                                                                                             |
