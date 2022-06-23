@@ -1,5 +1,7 @@
-# John 13–17 Part I • 約翰福音 13–17章（一）
+# John 13 Foot-washing, the Betrayer 洗腳，背叛者
 Barry Lee 李萬基 2022.06.19
+
+![Alt text](pic/footwashing.png)
 
 ## 1   Overview of Chs 13–17 第 13-17 章概論
 
@@ -117,6 +119,8 @@ Barry Lee 李萬基 2022.06.19
 - "Since it is the most menial task, which no one but a servant or slave would ordinarily think of doing, it is the extreme case that carries with it **every less humiliating kind of service** for each other that might arise." 既然這是最卑微的工作，除了僕人或奴隸通常不會想到做，它是一種最極端的例子，[連洗腳都可以做，]代表了任何一種比較不難堪的服侍[都可以做]。[^13]
 
 ## 3   Judas—a profile of the betrayer 猶大——背叛者傳略
+![Alt text](pic/Judas-next-to-Jesus.png)
+
 
 ### 3.1   As a disciple 作為門徒
 - Judas is **chosen** as one of the 12 (Luke 6:12-16; Mark 3:13-19). 猶大被**選為**十二門徒之一（路加福音 6:12-16；馬可福音 3:13-19）。
