@@ -4,7 +4,7 @@ Barry Lee 李萬基 2022.05.01
 
 ## Introduction 引言
 - Synoptic Gospels 同觀福音 vs the Fourth Gospel 第四福音
-![[Pasted image 20220429115243.png]]
+![Alt text](pic/Four-gospels.png)
 	- Synoptic Gospels 同觀福音：Matthew 馬太、Mark  馬可、Luke 路加
 	- the Fourth Gospel 第四福音：John 約翰
 	- What are the differences between Synoptic Gospels and the Fourth Gospel? 同觀福音和第四福音有什麼分別？
@@ -37,7 +37,7 @@ Barry Lee 李萬基 2022.05.01
 
 #### When and where? 何時何處？
 - "The earliest textual witnesses to the Gospel of John are papyri from Egypt, above all the so-called Rylands fragment, or P52, consisting of John 18:31–33, 37–38 (the earliest known fragment of any New Testament book), from the first half of the second century, and the Bodmer papyri (P66 and P75), from the early third century. 約翰福音最早的文字記錄是來自埃及的莎草紙，最重要的是 Rylands 片段，或 P52，由約翰福音 18:31-33、37-38（已知最早的任何新約書卷）組成，檢測年份是二世紀上半葉。 另外也有從三世紀初的 Bodmer 莎草紙（P66 和 P75）" [^7]
-	- ![[Pasted image 20220428200321.png]]
+	- ![Alt text](pic/original-manuscript-john.png)
 - Timeline 時間線
 	- Irenaeus 愛納內 (a priest 早期主教, ca. 200): "John [] lived on at Ephesus into the reign of Trajan (98–117). 約翰 [] 在以弗所活到圖拉真統治時期(98–117)。" 
 	- The disciple responsible for the Gospel is dying or has died (cf. John 21:20–24)... one might settle on a plausible date of ca. 100 for the _final redaction_ of the Gospel  約翰福音 21：20-24 ： 寫作福音的那位門徒差不多死去或已經死去 (cf. John 21:20–24)... 人們可能會確定一個合理的日期，大約是主後100年是福音的_最終修訂_。.
@@ -51,7 +51,7 @@ Barry Lee 李萬基 2022.05.01
 
 
 ## Authorship 來源
-![[Pasted image 20220429113722.png]]
+![Alt text](pic/cluedo.png)
 #### Author and editor(s) 作者與編輯
 - **Jn 21:24** This is the disciple who is bearing witness about these things, and who has written these things, and ***we*** know that his testimony is true. (ESV) 約21:24 這門徒就是為這些事作見證、並且記載這些事的，**我們**知道他的見證是真的。(和修版)
 - "The Gospel of John is claiming to be more than the product of this disciple’s testimony; it is claiming him as its actual author, not necessarily in the sense that he “wrote” it with his own hand (any more than Pilate wrote the title, or Paul the letter to the Romans with their own hands), but in the sense that he composed it and takes full responsibility for its content. 約翰福音不僅僅是「這位門徒」的見證，書中聲稱他就是這福音的真正作者，但其實不一定是他親手“寫”的（就像彼拉多為耶穌的「罪狀」親手題筆，或保羅寫給羅馬人的信一樣），但在某程度上他撰寫並對其內容承擔全部責任。"[^9]
@@ -65,7 +65,7 @@ Barry Lee 李萬基 2022.05.01
 - This appearance of the "we" in John 21 rejects a common thought that God's word comes from a single instance of inspiration. God's Inspiration can be a long process. This helps us appreciate how other books in the Bible came into being. There might be authors, editors, even ghost writers, all involved in the composition process. 約翰福音的這個「我們」的出現否定了一個普遍的想法，即上帝的話語來自單一次的感動而寫下。 上帝的啟示可以是一個漫長的過程。 這有助於我們了解聖經中其他書卷是如何產生的。當中可以有作者，有編者，也有代筆的人， 是一個合成的過程。
 
 #### Who is the Beloved Disciple (BD)? 誰是「主所愛的門徒」?
-![[Pasted image 20220429113722.png]]
+![Alt text](pic/cluedo.png)
 
 ###### Relevant passages 相關經文
 - "13:23 One of them, the disciple whom Jesus loved, was reclining next to him. 24 Simon Peter motioned to this disciple and said, “Ask him which one he means.25 Leaning back against Jesus, he asked him, “Lord, who is it? 23 門徒中有一個人，是耶穌所愛的，側身挨近耶穌的胸懷。 24 西門．彼得就對這個人示意，要問耶穌是指著誰說的。 25 於是那人緊靠著耶穌的胸膛，問他：「主啊，是誰呢？」”
@@ -76,7 +76,7 @@ Barry Lee 李萬基 2022.05.01
 
 ###### John, son of Zebedee 西庇太兒子約翰
 - **Irenaeus**, near the end of the century, after recounting the traditions about the other three Gospels, concluded, “Afterwards, John, the disciple of the Lord, who also leaned upon His breast, did himself publish a Gospel during his residence at Ephesus in Asia. **愛納內**，在第二世紀末，在講述了其他三本福音書的傳統之後，總結道：“後來，主的門徒約翰也靠在他的胸前，他住在亞細亞的以弗所時讓福音書面世。”[^13]
-	- ![[Pasted image 20220428232821.png]]
+	- ![Alt text](pic/Irenaeus.png)
 	- Echoes Jn 13:23 One of them, the disciple whom Jesus loved, was reclining next to him. 門徒中有一個人，是耶穌所愛的，側身挨近耶穌的胸懷。
 - John, James (his brother), Peter, Andrew: first four disciples 約翰、雅各（他的兄弟）、彼得、安德烈：首四位門徒
 - “the Church in Ephesus, founded by Paul, and having John remaining among them permanently until the time of Trajan (circa 100AD), is a true witness of the tradition of the apostles. 保羅創立以弗所教會，後來約翰長期留在他們中間直到圖拉真時代（約主後100年），是使徒傳統的真實見證。”[^14]
@@ -96,13 +96,13 @@ Barry Lee 李萬基 2022.05.01
 
 ###### A different John—John the Priest/Presbyter 另一位約翰——祭司/長老約翰? 
 - Polycrates (Bishop of Ephesus): “John, who lay on the Lord’s breast, who was a priest wearing the breastplate, and a martyr, and teacher. He sleeps at Ephesus. 波利克拉底斯（以弗所主教）：“約翰，他躺在主的胸膛上，曾是一位戴著胸甲的祭司，也是一位殉道者和教師。他在以弗所過身。”[^20] 
-	 - ![[Pasted image 20220429123730.png]]
+	 - ![Alt text](pic/John-the-Presbyter.png)
 - Simon Peter and another disciple were following Jesus. Because this disciple was known to the high priest, he went with Jesus into the high priest’s courtyard 西門‧彼得跟着耶穌，另一個門徒也跟着；那門徒是大祭司所認識的，他就同耶穌進了大祭司的院子。
 - Acts 4:6 Annas the high priest was there, and so were Caiaphas, **John**, Alexander and others of the high priest’s family. 又有亞那大祭司、該亞法、**約翰**、亞歷山大，和大祭司的親族都在那裏。
 	- Unlikely to confuse with this John 不太可能與這個約翰混淆 — (Acts 4:6) with Annas the high priest and Caiaphas and John and Alexander, and all who were of the high-priestly family. 
 	- But Polycrates confuses Philip the apostle with Philip, one of the seven appointed to serve tables (Acts 6:5) 但波利克拉底將使徒腓力，與七位執事之一腓力混淆了（使徒行傳 6:5）. [^21]
 - Papias (bishop of Hierapolis in Asia Minor), a contemporary of Polycarp 帕皮亞斯（小亞細亞希拉波利斯的主教），波利卡普的同時代人：
-	- ![[Pasted image 20220429123941.png]]
+	- ![Alt text](pic/Papias.png)
 	- "I inquired into the words of the presbyters, what Andrew or Peter or Philip or Thomas or James or **John** or Matthew, or any other of the Lord’s disciples, had said, and what Aristion and **the presbyter John**, the Lord’s disciples, were saying. 我研究長老們的話， 就是安得烈、彼得、菲利普、多馬、雅各、**約翰**或馬太，或任何其他主的門徒說過什麼，以及主的門徒阿里斯蒂安和**長老約翰**在說什麼。"[^22]
 - Eusebius: "This confirms the truth of the story of those who have said that there were two of the same name in Asia, and that there are two tombs at Ephesus both still called John’s. 尤西比烏斯：“這證實了那些說在亞細亞有兩個同名的人，並且在以弗所有**兩個墳墓同都叫約翰的**。"[^23]
 - "Yet while this “presbyter” distinct from the apostle remains something of a phantom in real history, he has taken on a life of his own in modern “Johannine” scholarship. 然而，儘管這位與使徒不同的“長老”在真實歷史中是個幻影般的角色，但他在現代“約翰”學術研究中已經佔有一席位。"[^24]
