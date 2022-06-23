@@ -4,6 +4,8 @@ Sunday School at PCBC, Auckland
 
 Barry Lee
 
+![Alt text](bible-as-person.jpg)
+
 ## Course Outline <br/> 課程大綱
 
 | Date<br/>日期 | Week<br/>節數 | Contents<br/>內容                                                                                                                                                                                                              |                                                                      Audio<br/>錄音                                                                       |                                             Video<br/>錄影                                              |
