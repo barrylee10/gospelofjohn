@@ -1,7 +1,7 @@
 # John 13 Foot-washing, the Betrayer 洗腳，背叛者
 Barry Lee 李萬基 2022.06.19
 
-![Alt text](pic/footwashing.png)
+ ![Alt text](images/footwashing.png)
 
 ## 1   Overview of Chs 13–17 第 13-17 章概論
 
@@ -119,7 +119,7 @@ Barry Lee 李萬基 2022.06.19
 - "Since it is the most menial task, which no one but a servant or slave would ordinarily think of doing, it is the extreme case that carries with it **every less humiliating kind of service** for each other that might arise." 既然這是最卑微的工作，除了僕人或奴隸通常不會想到做，它是一種最極端的例子，[連洗腳都可以做，]代表了任何一種比較不難堪的服侍[都可以做]。[^13]
 
 ## 3   Judas—a profile of the betrayer 猶大——背叛者傳略
-![Alt text](pic/Judas-next-to-Jesus.png)
+ ![Alt text](images/Judas-next-to-Jesus.png)
 
 
 ### 3.1   As a disciple 作為門徒

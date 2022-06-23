@@ -4,11 +4,15 @@ Sunday School at PCBC, Auckland
 
 Barry Lee
 
-![Alt text](pic/bible-as-person.jpg)
+本課程希望幫助大家清除一些讀聖經的迷思和障礙。筆記是mobile friendly的，方便大家「碌」手機。錄音/錄影連結應該一按便直接在瀏覽器播放，不需下載。
 
-## Course Outline <br/> 課程大綱
+ ![Alt text](images/bible-as-person.jpg)
 
-| Date<br/>日期 | Week<br/>節數 | Contents<br/>內容                                                                                                                                                                                                              |                                                                      Audio<br/>錄音                                                                       |                                             Video<br/>錄影                                              |
+## 1   Course Outline <br/> 課程大綱
+Scroll to the right of the table to find the audio/video.
+向右掃便有錄音/錄影。
+
+| Date<br/>日期 | Week<br/>節數 | Notes<br/>筆記                                                                                                                                                                                                              |                                                                      Audio<br/>錄音                                                                       |                                             Video<br/>錄影                                              |
 | ------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
 | 1/05/22       | 1             | [Overview and authorship<br/>概論、作者](https://github.com/barrylee10/gospelofjohn/blob/main/John_00.md)                                                                                                                      | [Audio 錄音](https://www.dropbox.com/s/c71sneyw9dbshgj/John%2000%20overview%20and%20authorship%20%E6%A6%82%E8%AB%96%E8%88%87%E4%BD%9C%E8%80%85.mp3?raw=1) |                                                 ---[^1]                                                 |
 | 8/05/22       | 2             | [John 1–2 The Prologue and the beginning of the Book of Signs<br/>前言、 神跡初現](https://github.com/barrylee10/gospelofjohn/blob/main/John_01-02.md)                                                                         |                                  [Audio 錄音](https://www.dropbox.com/s/4n1k8oyochfj0lb/John%2001%E2%80%9302.mp3?raw=1)                                   |                                                   ---                                                   |
