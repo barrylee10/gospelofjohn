@@ -1,3 +1,7 @@
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
+
 #  The Enigmatic Gospel: John <br/>約翰福音—「迷」之書卷
 Sunday School at PCBC, Auckland
 2022 May to July
