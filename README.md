@@ -36,4 +36,3 @@ Scroll to the right of the table to find the audio/video.
 [^1]: Due to various reasons, recordings are not always available publicly. The best way is to join us live on [Zoom](https://us02web.zoom.us/j/2813814811?pwd=UzZJQVZsWXVVNmFPWGJleGhTbEU2dz09)
  each Sunday! 基於各種原因，錄音並不能每次提供。最好還是每週日加入我們的[Zoom](https://us02web.zoom.us/j/2813814811?pwd=UzZJQVZsWXVVNmFPWGJleGhTbEU2dz09)吧！
 [^2]: Dr Hakkan Lai stood in for me and taught this brilliant lesson. 
-
