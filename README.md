@@ -10,7 +10,7 @@ Barry Lee, PhD
 
 本課程希望幫助大家清除一些讀聖經的迷思和障礙。筆記是mobile friendly的，方便大家「碌」手機。錄音/錄影連結應該一按便直接在瀏覽器播放，不需下載。
 
- ![Alt text](bible-as-person.jpg)
+ ![Alt text](images/bible-as-person.jpg)
 
 ## 1   Course Outline <br/> 課程大綱
 Scroll to the right of the table to find the audio/video.
